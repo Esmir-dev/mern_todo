@@ -1,0 +1,9 @@
+.card-status {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.board {
+  display: flex;
+  justify-content: center;
+}
